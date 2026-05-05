@@ -1,42 +1,39 @@
-# About Me
+# Hi, I'm Anup Reddy
 
-Hi there! I'm Anup Reddy, a design verification engineer by profession based in hyderabad (India). I have a passion for hardware/software programming, and I love sharing my knowledge with others. I'm always looking for new and exciting opportunities to learn, grow, and collaborate.
+I'm a Design Verification Engineer based in Hyderabad, India.
 
-## Skills
+I work with SystemVerilog, UVM, regression flows, protocol verification, and hardware debug. I also build practical tools for DV engineers — linting tools, regression dashboards, automation scripts, AI agents, and productivity applications.
 
-* Systemverilog
-* Universal verification methodology (UVM)
-* Python
-* Java
-* C/C++
-* Javascript
-* Django
-* Node/Express
-* React
+My current focus is combining hardware verification experience, software tooling, and AI systems to make engineering workflows more structured, visible, and easier to debug.
 
-## Projects
+## Core Areas
 
-* UVM Genie (Python)
-* Rental Management (Django)
-* Trade Manager (Algorithemic trading platform for indian markets using python)
+- Design Verification: SystemVerilog, UVM, testbench architecture, regressions, debug flows
+- Protocols & SoC DV: AXI, PCIe, Wi-Fi MAC, ARM-based SoCs
+- DV Tooling: linting tools, regression dashboards, automation scripts, reporting flows
+- AI & Agentic Systems: LLMs, RAG, Agentic RAG, CrewAI, LangChain, LangGraph, LangSmith
+- Software: Python, Django, SQLite, CLI tools, HTML/CSS, Tailwind
 
-## Connect with Me
+## Featured Projects
 
-* GitHub: https://github.com/anupkumarreddy/anupkumarreddy
-* LinkedIn: https://www.linkedin.com/in/anup-kumar-reddy-739b741b/
-* Email: anupkumarreddy@gmail.com
+### SALT — SystemVerilog Analysis & Linting Tool
+A lightweight Python-based linter for SystemVerilog codebases. SALT focuses on style enforcement, naming conventions, and basic RTL/UVM best-practice checks without trying to be a full compiler.
 
-<!--
-**anupkumarreddy/anupkumarreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SimTrack — Regression Tracking Dashboard for DV Teams
+A Django-based dashboard to track projects, regressions, runs, test results, milestones, and recurring failure signatures across DV workflows.
 
-Here are some ideas to get you started:
+### RentLedger
+A Django application for managing rental properties, tenants, leases, rent dues, payments, and expenses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building Toward
+
+I'm interested in open-source DV tooling, verification productivity, SystemVerilog/UVM education, and practical applications that help hardware teams debug faster and manage regressions better.
+
+## Writing & Links
+
+- Blog: https://bitwiseblog.com
+- LinkedIn: https://www.linkedin.com/in/anup-kumar-reddy-739b741b/
+- X/Twitter: https://x.com/AnupReddyM
+- GitHub: https://github.com/anupkumarreddy
+
+  
